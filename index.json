@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "prometheus-scrape-config-k8s-operator",
+  "versions": [
+    {
+      "commit": "ab458e76d12fb6b231e9b0dc9aff7e827c77d354",
+      "tag": "rev79",
+      "parsed_at": "2026-11-08T16:04:51.803746+00:00"
+    }
+  ]
+}
