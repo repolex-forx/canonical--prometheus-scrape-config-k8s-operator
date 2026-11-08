@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/prometheus-scrape-config-k8s-operator/commit/ab458e76d12fb6b231e9b0dc9aff7e827c77d354",
       "git:hexsha": "ab458e76d12fb6b231e9b0dc9aff7e827c77d354",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev79"
     },
     {
